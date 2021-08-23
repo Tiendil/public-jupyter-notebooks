@@ -3,3 +3,4 @@ logs
 .ipynb_checkpoints
 *.zip
 *.csv
+generated-images
